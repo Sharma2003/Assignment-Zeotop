@@ -62,28 +62,6 @@ Task 3: Customer Segmentation (Clustering)
             Other metrics.
         A Jupyter Notebook with the clustering code.
 
-Submission Instructions
-
-    Upload all files to a public GitHub repository.
-    Ensure your files follow the naming convention:
-        EDA Report: FirstName_LastName_EDA.pdf
-        EDA Code: FirstName_LastName_EDA.ipynb
-        Lookalike Model Output: FirstName_LastName_Lookalike.csv
-        Lookalike Model Code: FirstName_LastName_Lookalike.ipynb
-        Clustering Report: FirstName_LastName_Clustering.pdf
-        Clustering Code: FirstName_LastName_Clustering.ipynb
-
-Evaluation Criteria
-
-    Exploratory Data Analysis: 25%
-    Business Insights: 15%
-    Lookalike Model: 30%
-    Customer Segmentation: 30%
-
-Notes:
-
-    Ensure code clarity and efficiency.
-    Provide meaningful and actionable insights.
     Follow the naming and formatting conventions strictly to avoid disqualification.
 
 Tools and Libraries
